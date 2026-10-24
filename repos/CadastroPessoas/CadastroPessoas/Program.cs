@@ -2,5 +2,5 @@
 
 namespace CadastroPessoas
 {
-
+    public abstract class Pessoa   
 }
